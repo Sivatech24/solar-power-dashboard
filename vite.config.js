@@ -9,5 +9,5 @@ export default defineConfig({
       "@": path.resolve(__dirname, "src"),
     },
   },
-  base: "/solar-power-dashboard/", // Your GitHub repository name
+  base: "/solar-power-dashboard-analysis/", // Your GitHub repository name
 });

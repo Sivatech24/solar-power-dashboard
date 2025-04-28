@@ -19,7 +19,7 @@ const About = () => {
       name: "Srinidas P",
       role: "Software Developer",
       linkedin: "https://www.linkedin.com/in/srinidas-p-55a9262b4/",
-      image: "https://media.licdn.com/dms/image/v2/D5635AQEAS89fkY3hVA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1730784244356?e=1742209200&v=beta&t=OxxmcaaVGIcSurFpJ3oeM6PMh3e9ZMWLwqN5u7fae6s"
+      image: "https://media.licdn.com/dms/image/v2/D5635AQEAS89fkY3hVA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1730784244356?e=1746464400&v=beta&t=atzYEsh77uCLmVp1UAkdthY_ZcyCitPzAnduN1SattY"
     },
     {
       name: "Abinesh . J",
